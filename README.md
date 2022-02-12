@@ -1,11 +1,13 @@
 ## stack of technologies
 
 - [Next.js](https://nextjs.org/)
+- [Next-auth](https://nextjs.org/docs/auth/authentication)
 - [React](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [React-dom](https://reactjs.org/docs/dom-elements.html)
+- [React-icons](https://react-icons.netlify.com/)
 - [Sass](https://sass-lang.com/)
-- [react-icons](https://react-icons.netlify.com/)
 - [Stripe](https://stripe.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 
 ## Getting Started
