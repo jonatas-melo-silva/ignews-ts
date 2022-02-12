@@ -1,3 +1,9 @@
+## stack of technologies
+
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Sass](https://sass-lang.com/)
 
 
 ## Getting Started
