@@ -5,6 +5,7 @@
 - [TypeScript](https://www.typescriptlang.org/)
 - [Sass](https://sass-lang.com/)
 - [react-icons](https://react-icons.netlify.com/)
+- [Stripe](https://stripe.com/)
 
 
 ## Getting Started
